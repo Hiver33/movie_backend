@@ -1,2 +1,2 @@
-# Project 1 : movie_backend
+# movie_backend
 Projet cinedata
